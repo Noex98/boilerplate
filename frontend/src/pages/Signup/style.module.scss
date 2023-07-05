@@ -1,0 +1,27 @@
+.wrapper {
+    text-align: center;
+    margin: 24px;
+}
+
+.form {
+    margin: 12px;
+
+    label {
+        padding: 8px;
+        display: block;
+
+        input {
+            padding: 6px;
+        }
+    }
+
+    button {
+        padding: 8px;
+        margin: 16px;
+    }
+}
+
+.errMessage {
+    color: red;
+    margin-bottom: 12px;
+}
